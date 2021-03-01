@@ -1,0 +1,6 @@
+download
+activate
+directory
+false
+shell
+empty
